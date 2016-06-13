@@ -4,4 +4,5 @@ print "Calculating diagnostics..."
 print "Success rate is too low!"
 print "Success rate: 0%."
 
-print "It is brokenMASTER!"
+print "rrr"
+print "It is broken!"
